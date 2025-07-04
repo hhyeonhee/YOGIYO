@@ -1,0 +1,36 @@
+[
+    {
+      "type": "customer",
+      "uid": "1",
+      "email_id": "dongs218@naver.com",
+      "pw": "1234",
+      "name": "박은비",
+      "birth": "980218",
+      "phonenumber": "01044002218",
+      "pass": "",
+      "point": ""
+    },
+    {
+      "type": "customer",
+      "uid": "2",
+      "email_id": "seonseo@naver.com",
+      "pw": "1216",
+      "name": "선서현",
+      "birth": "981216",
+      "phonenumber": "01055556666",
+      "pass": "",
+      "point": ""
+    },
+    {
+      "type": "customer",
+      "uid": "3",
+      "email_id": "hjy9256@naver.com",
+      "pw": "0120",
+      "name": "하진영",
+      "birth": "010120",
+      "phonenumber": "01012121212",
+      "pass": "",
+      "point": ""
+    }
+  ]
+  

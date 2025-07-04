@@ -1,0 +1,1376 @@
+[
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 1,
+    "district": "종로구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 2,
+    "district": "중구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 3,
+    "district": "용산구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 4,
+    "district": "성동구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 5,
+    "district": "광진구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 6,
+    "district": "동대문구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 7,
+    "district": "중랑구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 8,
+    "district": "성북구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 9,
+    "district": "강북구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 10,
+    "district": "도봉구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 11,
+    "district": "노원구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 12,
+    "district": "은평구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 13,
+    "district": "서대문구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 14,
+    "district": "마포구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 15,
+    "district": "양천구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 16,
+    "district": "강서구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 17,
+    "district": "구로구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 18,
+    "district": "금천구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 19,
+    "district": "영등포구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 20,
+    "district": "동작구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 21,
+    "district": "관악구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 22,
+    "district": "서초구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 23,
+    "district": "강남구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 24,
+    "district": "송파구"
+  },
+  {
+    "area_code": "02",
+    "city": "서울특별시",
+    "number": 25,
+    "district": "강동구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 26,
+    "district": "중구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 27,
+    "district": "서구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 28,
+    "district": "동구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 29,
+    "district": "영도구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 30,
+    "district": "부산진구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 31,
+    "district": "동래구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 32,
+    "district": "남구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 33,
+    "district": "북구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 34,
+    "district": "해운대구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 35,
+    "district": "사하구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 36,
+    "district": "금정구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 37,
+    "district": "강서구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 38,
+    "district": "연제구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 39,
+    "district": "수영구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 40,
+    "district": "사상구"
+  },
+  {
+    "area_code": "051",
+    "city": "부산광역시",
+    "number": 41,
+    "district": "기장군"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 42,
+    "district": "중구"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 43,
+    "district": "동구"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 44,
+    "district": "서구"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 45,
+    "district": "남구"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 46,
+    "district": "북구"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 47,
+    "district": "수성구"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 48,
+    "district": "달서구"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 49,
+    "district": "달성군"
+  },
+  {
+    "area_code": "053",
+    "city": "대구광역시",
+    "number": 50,
+    "district": "군위군"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 51,
+    "district": "중구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 52,
+    "district": "동구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 53,
+    "district": "미추홀구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 54,
+    "district": "연수구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 55,
+    "district": "남동구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 56,
+    "district": "부평구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 57,
+    "district": "계양구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 58,
+    "district": "서구"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 59,
+    "district": "강화군"
+  },
+  {
+    "area_code": "032",
+    "city": "인천광역시",
+    "number": 60,
+    "district": "옹진군"
+  },
+  {
+    "area_code": "062",
+    "city": "광주광역시",
+    "number": 61,
+    "district": "동구"
+  },
+  {
+    "area_code": "062",
+    "city": "광주광역시",
+    "number": 62,
+    "district": "서구"
+  },
+  {
+    "area_code": "062",
+    "city": "광주광역시",
+    "number": 63,
+    "district": "남구"
+  },
+  {
+    "area_code": "062",
+    "city": "광주광역시",
+    "number": 64,
+    "district": "북구"
+  },
+  {
+    "area_code": "062",
+    "city": "광주광역시",
+    "number": 65,
+    "district": "광산구"
+  },
+  {
+    "area_code": "042",
+    "city": "대전광역시",
+    "number": 66,
+    "district": "동구"
+  },
+  {
+    "area_code": "042",
+    "city": "대전광역시",
+    "number": 67,
+    "district": "중구"
+  },
+  {
+    "area_code": "042",
+    "city": "대전광역시",
+    "number": 68,
+    "district": "서구"
+  },
+  {
+    "area_code": "042",
+    "city": "대전광역시",
+    "number": 69,
+    "district": "유성구"
+  },
+  {
+    "area_code": "042",
+    "city": "대전광역시",
+    "number": 70,
+    "district": "대덕구"
+  },
+  {
+    "area_code": "052",
+    "city": "울산광역시",
+    "number": 71,
+    "district": "중구"
+  },
+  {
+    "area_code": "052",
+    "city": "울산광역시",
+    "number": 72,
+    "district": "남구"
+  },
+  {
+    "area_code": "052",
+    "city": "울산광역시",
+    "number": 73,
+    "district": "동구"
+  },
+  {
+    "area_code": "052",
+    "city": "울산광역시",
+    "number": 74,
+    "district": "북구"
+  },
+  {
+    "area_code": "052",
+    "city": "울산광역시",
+    "number": 75,
+    "district": "울주군"
+  },
+  {
+    "area_code": "044",
+    "city": "세종특별자치시",
+    "number": 76,
+    "district": "구 없음"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 77,
+    "district": "수원시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 78,
+    "district": "성남시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 79,
+    "district": "의정부시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 80,
+    "district": "안양시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 81,
+    "district": "부천시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 82,
+    "district": "광명시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 83,
+    "district": "평택시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 84,
+    "district": "동두천시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 85,
+    "district": "안산시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 86,
+    "district": "고양시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 87,
+    "district": "과천시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 88,
+    "district": "구리시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 89,
+    "district": "남양주시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 90,
+    "district": "오산시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 91,
+    "district": "시흥시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 92,
+    "district": "군포시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 93,
+    "district": "의왕시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 94,
+    "district": "하남시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 95,
+    "district": "용인시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 96,
+    "district": "파주시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 97,
+    "district": "이천시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 98,
+    "district": "안성시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 99,
+    "district": "김포시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 100,
+    "district": "화성시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 101,
+    "district": "광주시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 102,
+    "district": "양주시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 103,
+    "district": "포천시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 104,
+    "district": "여주시"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 105,
+    "district": "연천군"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 106,
+    "district": "가평군"
+  },
+  {
+    "area_code": "031",
+    "city": "경기도",
+    "number": 107,
+    "district": "양평군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 108,
+    "district": "춘천시"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 109,
+    "district": "원주시"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 110,
+    "district": "강릉시"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 111,
+    "district": "동해시"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 112,
+    "district": "태백시"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 113,
+    "district": "속초시"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 114,
+    "district": "삼척시"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 115,
+    "district": "홍천군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 116,
+    "district": "횡성군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 117,
+    "district": "영월군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 118,
+    "district": "평창군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 119,
+    "district": "정선군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 120,
+    "district": "철원군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 121,
+    "district": "화천군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 122,
+    "district": "양구군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 123,
+    "district": "인제군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 124,
+    "district": "고성군"
+  },
+  {
+    "area_code": "033",
+    "city": "강원특별자치도",
+    "number": 125,
+    "district": "양양군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 126,
+    "district": "청주시"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 127,
+    "district": "충주시"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 128,
+    "district": "제천시"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 129,
+    "district": "보은군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 130,
+    "district": "옥천군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 131,
+    "district": "영동군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 132,
+    "district": "진천군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 133,
+    "district": "괴산군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 134,
+    "district": "음성군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 135,
+    "district": "단양군"
+  },
+  {
+    "area_code": "043",
+    "city": "충청북도",
+    "number": 136,
+    "district": "증평군"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 137,
+    "district": "천안시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 138,
+    "district": "공주시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 139,
+    "district": "보령시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 140,
+    "district": "아산시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 141,
+    "district": "서산시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 142,
+    "district": "논산시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 143,
+    "district": "계룡시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 144,
+    "district": "당진시"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 145,
+    "district": "금산군"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 146,
+    "district": "부여군"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 147,
+    "district": "서천군"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 148,
+    "district": "청양군"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 149,
+    "district": "홍성군"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 150,
+    "district": "예산군"
+  },
+  {
+    "area_code": "041",
+    "city": "충청남도",
+    "number": 151,
+    "district": "태안군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 152,
+    "district": "전주시"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 153,
+    "district": "군산시"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 154,
+    "district": "익산시"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 155,
+    "district": "정읍시"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 156,
+    "district": "남원시"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 157,
+    "district": "김제시"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 158,
+    "district": "완주군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 159,
+    "district": "진안군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 160,
+    "district": "무주군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 161,
+    "district": "장수군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 162,
+    "district": "임실군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 163,
+    "district": "순창군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 164,
+    "district": "고창군"
+  },
+  {
+    "area_code": "063",
+    "city": "전라북도",
+    "number": 165,
+    "district": "부안군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 166,
+    "district": "목포시"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 167,
+    "district": "여수시"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 168,
+    "district": "순천시"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 169,
+    "district": "나주시"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 170,
+    "district": "광양시"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 171,
+    "district": "담양군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 172,
+    "district": "곡성군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 173,
+    "district": "구례군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 174,
+    "district": "고흥군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 175,
+    "district": "보성군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 176,
+    "district": "화순군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 177,
+    "district": "장흥군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 178,
+    "district": "강진군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 179,
+    "district": "해남군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 180,
+    "district": "영암군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 181,
+    "district": "무안군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 182,
+    "district": "함평군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 183,
+    "district": "영광군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 184,
+    "district": "장성군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 185,
+    "district": "완도군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 186,
+    "district": "진도군"
+  },
+  {
+    "area_code": "061",
+    "city": "전라남도",
+    "number": 187,
+    "district": "신안군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 188,
+    "district": "포항시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 189,
+    "district": "경주시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 190,
+    "district": "김천시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 191,
+    "district": "안동시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 192,
+    "district": "구미시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 193,
+    "district": "영주시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 194,
+    "district": "영천시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 195,
+    "district": "상주시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 196,
+    "district": "문경시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 197,
+    "district": "경산시"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 198,
+    "district": "의성군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 199,
+    "district": "청송군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 200,
+    "district": "영양군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 201,
+    "district": "영덕군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 202,
+    "district": "청도군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 203,
+    "district": "고령군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 204,
+    "district": "성주군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 205,
+    "district": "칠곡군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 206,
+    "district": "예천군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 207,
+    "district": "봉화군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 208,
+    "district": "울진군"
+  },
+  {
+    "area_code": "054",
+    "city": "경상북도",
+    "number": 209,
+    "district": "울릉군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 210,
+    "district": "창원시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 211,
+    "district": "진주시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 212,
+    "district": "통영시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 213,
+    "district": "사천시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 214,
+    "district": "김해시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 215,
+    "district": "밀양시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 216,
+    "district": "거제시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 217,
+    "district": "양산시"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 218,
+    "district": "의령군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 219,
+    "district": "함안군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 220,
+    "district": "창녕군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 221,
+    "district": "고성군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 222,
+    "district": "남해군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 223,
+    "district": "하동군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 224,
+    "district": "산청군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 225,
+    "district": "함양군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 226,
+    "district": "거창군"
+  },
+  {
+    "area_code": "055",
+    "city": "경상남도",
+    "number": 227,
+    "district": "합천군"
+  },
+  {
+    "area_code": "064",
+    "city": "제주특별자치도",
+    "number": 228,
+    "district": "제주시"
+  },
+  {
+    "area_code": "064",
+    "city": "제주특별자치도",
+    "number": 229,
+    "district": "서귀포시"
+  }
+]
